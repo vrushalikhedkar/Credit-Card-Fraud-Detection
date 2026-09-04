@@ -26,6 +26,17 @@ The dataset contains 1000 transactions:
 - 500 Fraud transactions (```Class = 1```)
 
 
+### Logistic Regression
+
+Logistic Regression is used for classification problems where the output belongs to categories.
+
+Here:
+
+- 0 = Normal
+
+- 1 = Fraud
+
+
 
 **Features**
 
@@ -45,3 +56,4 @@ The dataset contains 1000 transactions:
 
 
 #
+
