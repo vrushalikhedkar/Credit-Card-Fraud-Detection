@@ -14,3 +14,15 @@ The project uses **Logistic Regression**, a **classification algorithm**.
 
 #
 
+
+### 📂 Dataset
+
+The project uses a synthetic, beginner-friendly practice dataset named ```creditcard_balanced.csv```.
+
+The dataset contains 1000 transactions:
+
+- 500 Normal transactions ```(Class = 0)```
+
+- 500 Fraud transactions ```(Class = 1)```
+
+#
