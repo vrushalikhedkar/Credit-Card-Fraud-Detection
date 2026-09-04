@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="" width="1000">
+  <img src="Fraud Detection image.png" width="1000">
 </p>
 
 
