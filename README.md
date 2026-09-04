@@ -102,3 +102,22 @@ The trained model is used to predict whether a transaction is Normal or Fraudule
 
 #
 
+
+### 📈 Model Evaluation
+
+
+The model is evaluated using:
+
+- Accuracy
+
+- Confusion Matrix
+
+- Classification Report
+
+The classification report provides:
+
+- Precision
+
+- Recall
+
+- F1-score
