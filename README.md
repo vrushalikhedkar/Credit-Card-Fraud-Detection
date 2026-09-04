@@ -57,3 +57,32 @@ Here:
 
 #
 
+
+
+### Logistic Regression
+
+Logistic Regression is used for classification problems where the output belongs to categories.
+
+**HERE :**
+
+- 0 = Normal
+
+- 1 = Fraud
+
+
+# 
+
+
+### 🧠 Model Training
+
+
+The Logistic Regression model is trained using the training data.
+
+from sklearn.linear_model import LogisticRegression
+
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+
+#
+
