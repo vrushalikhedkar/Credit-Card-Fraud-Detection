@@ -38,11 +38,10 @@ The dataset contains 1000 transactions:
 - ```Class``` – Target/output column
 
 
+
+
 > [!NOTE]
 > This is a synthetic practice dataset, not the original real-world credit card fraud dataset. Model results should therefore be treated as practice results.
 
 
-
-
-> [!NOTE]
-> 
+#
