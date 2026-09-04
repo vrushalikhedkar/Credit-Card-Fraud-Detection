@@ -1,6 +1,11 @@
 # Credit Card Fraud Detection using Logistic Regression
 
 
+<p align="center">
+  <img src="" width="1000">
+</p>
+
+
 ### 📌 Project Overview
 
 This project detects whether a credit card transaction is **Normal** or **Fraudulent** using Machine Learning.
