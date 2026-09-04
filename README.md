@@ -37,7 +37,7 @@ The dataset contains 1000 transactions:
 
 - ```Class``` – Target/output column
 
-
+<br />
 
 
 > [!NOTE]
