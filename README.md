@@ -78,10 +78,26 @@ Logistic Regression is used for classification problems where the output belongs
 
 The Logistic Regression model is trained using the training data.
 
-from sklearn.linear_model import LogisticRegression
+*from sklearn.linear_model import LogisticRegression*
 
-model = LogisticRegression()
-model.fit(X_train, y_train)
+*model = LogisticRegression()*
+*model.fit(X_train, y_train)*
+
+
+#
+
+
+### 🔮 Prediction
+
+The trained model is used to predict whether a transaction is Normal or Fraudulent.
+
+*prediction = model.predict(new_transaction)*
+
+**Output:**
+
+- ```[0]``` → Normal Transaction
+
+- ```[1]``` → Fraud Transaction
 
 
 #
